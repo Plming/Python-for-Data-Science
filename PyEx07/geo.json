@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "１１０",
+               "short_name" : "１１０",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "세종대로",
+               "short_name" : "세종대로",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "명동",
+               "short_name" : "명동",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "중구",
+               "short_name" : "중구",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "서울특별시",
+               "short_name" : "서울특별시",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "대한민국",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100-101",
+               "short_name" : "100-101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "대한민국 서울특별시 중구 명동 세종대로 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5662952,
+               "lng" : 126.9779451
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5676441802915,
+                  "lng" : 126.9792940802915
+               },
+               "southwest" : {
+                  "lat" : 37.5649462197085,
+                  "lng" : 126.9765961197085
+               }
+            }
+         },
+         "place_id" : "ChIJKwjLMvOifDURqPAMQqxwK-k",
+         "plus_code" : {
+            "compound_code" : "HX8H+G5 대한민국 서울특별시",
+            "global_code" : "8Q98HX8H+G5"
+         },
+         "types" : [
+            "city_hall",
+            "establishment",
+            "local_government_office",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}
